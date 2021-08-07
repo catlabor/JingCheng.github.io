@@ -2,7 +2,7 @@
 ---
 #*Name: Hu Jingcheng*
 ---
-##*Contact*
+#*Contact*
 >>*Address:* Central South University,Changsha Shi,Hunan Province,410075,China
 >>*E=mail:*JingChengDr@outlook.com
 ---
