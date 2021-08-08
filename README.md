@@ -3,8 +3,8 @@
 ### Name: Hu Jingcheng
 
 #### Contact
-**Address:** Central South University,Changsha Shi,Hunan Province,410075,China
-**E=mail:** JingChengDr@outlook.com  
+**Address:** Central South University,Changsha Shi,Hunan Province,410075,China.   
+**E=mail:** JingChengDr@outlook.com.  
 
 #### Education Background
 **Central South University,Changsha,Hunan Province,China**
