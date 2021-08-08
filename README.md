@@ -16,8 +16,8 @@ Probability Theory and Mathematical statistics: 95
 Principle of Automatic Control: 91   
 
 #### Research and Project   
-Participant in several hardware design projects, some of them include the construction of automatic control fan based on single chip microcomputer,   
-wireless radio, capacitance measuring instrument based on digital chip and the design of infrared tracking car.    
+Participant in several hardware design projects, some of them include the construction of automatic control fan based on single chip    
+microcomputer, wireless radio, capacitance measuring instrument based on digital chip and the design of infrared tracking car.    
 Participate in the mathematical modeling competition, in which my task is to be responsible for the construction of the model and assist code.   
 Made some simple video games using programming tools such as python
 
