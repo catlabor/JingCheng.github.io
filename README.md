@@ -4,11 +4,11 @@
 
 #### Contact   
 **Address:** Central South University,Changsha Shi,Hunan Province,410075,China  
-**E-mail:** JingChengDr@outlook.com
+**E-mail:** jingchengac@gmail.com
 
 #### Education Background   
 **Central South University,Changsha,Hunan Province,China**   
-2018 -09-01 to present | B.S. (Automation)   
+2018 -09-01 to present | B.Eng. (Automation)   
 Average Scores till Present(on 100 scale): 88   
 Some of my main courses are listed below:   
 Advanced Mathematics: 100 in the first half and 97 in the second half   
@@ -24,7 +24,7 @@ Made some simple video games using programming tools such as python
 #### Skills   
 Programming: Python, Matlab, C, C++, Assembly Language   
 Design Tools: Proteus, Simulink    
-Office Software: Microsoft Office, WPS   
+Office Software: Microsoft Office, WPS
 
 #### Awards   
 Several scholarships include The Third Prize Scholarship of 2018-2019 and 2019-2020.   
