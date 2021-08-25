@@ -13,7 +13,8 @@ Average Scores till Present(on 100 scale): 88
 Some of my main courses are listed below:   
 Advanced Mathematics: 100 in the first half and 97 in the second half   
 Probability Theory and Mathematical statistics: 95   
-Principle of Automatic Control: 91   
+Principle of Automatic Control: 91  
+{% pdf D:/google/Transcript.pdf %}
 
 #### Research and Project   
 Participant in several hardware design projects, some of them include the construction of automatic control fan based on single chip    
