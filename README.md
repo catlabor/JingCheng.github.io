@@ -4,7 +4,7 @@
 
 #### Contact   
 **Address:** Central South University,Changsha Shi,Hunan Province,410075,China  
-**E-mail:** 8212180822@csu.edu.cn
+**E-mail:** jingchengac@gmail.com
 
 #### Education Background   
 **Central South University,Changsha,Hunan Province,China**   
