@@ -24,7 +24,6 @@ Machine learning algorithm implementation, web crawler, and making some simple v
 #### Skills   
 Programming: Python, Matlab, C, C++, Assembly Language   
 Design Tools: Proteus, Simulink    
-Office Software: Microsoft Office, WPS
 
 #### Awards   
 Several scholarships include The Third Prize Scholarship of 2018-2019 and 2019-2020.   
