@@ -26,7 +26,7 @@ Programming: Python, Matlab, C, C++, Assembly Language
 Design Tools: Proteus, Simulink    
 
 #### Awards   
-Several scholarships include The Third Prize Scholarship of 2018-2019 and 2019-2020.   
+Several scholarships include The Prize Scholarship of 2018-2019 and 2019-2020.   
 Several volunteer certificates include Outstanding Volunteer.   
 Multiple group prizes include Outstanding Dormitory and Advanced Class.
 
