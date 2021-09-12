@@ -17,9 +17,9 @@ Principle of Automatic Control: 91
 
 #### Research and Project   
 Participant in several hardware design projects, some of them include the construction of automatic control fan based on single chip    
-microcomputer, wireless radio, capacitance measuring instrument based on digital chip and the design of infrared tracking car.    
-Participate in the mathematical modeling competition, in which my task is to be responsible for the construction of the model and assist code.   
+microcomputer, wireless radio, capacitance measuring instrument based on digital chip and the design of infrared tracking car.       
 Machine learning algorithm implementation, web crawler, and making some simple video games using programming tools such as python.
+Participate in the mathematical modeling competition, in which my task is to be responsible for the construction of the model and assist code.
 
 #### Skills   
 Programming: Python, Matlab, C, C++, Assembly Language   
@@ -27,8 +27,7 @@ Design Tools: Proteus, Simulink
 
 #### Awards   
 Several scholarships include The Prize Scholarship of 2018-2019 and 2019-2020.   
-Several volunteer certificates include Outstanding Volunteer.   
-Multiple group prizes include Outstanding Dormitory and Advanced Class.
+Several volunteer certificates include Outstanding Volunteer and multiple group prizes include Outstanding Dormitory and Advanced Class.
 
 #### Languages   
 English:TOEFL iBT: Overall: 87(R:25, L:22, S:17, W:23)   
