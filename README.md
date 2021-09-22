@@ -23,7 +23,7 @@ Participate in the mathematical modeling competition, in which my task is to be 
 
 #### Skills   
 Programming: Python, Matlab, C, C++, Assembly Language   
-Design Tools: Proteus, Simulink  
+Design and Work Tools: Proteus, Simulink, LaTeX, Markdown  
 
 
 #### Awards   
