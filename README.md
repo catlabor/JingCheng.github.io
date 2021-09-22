@@ -23,10 +23,11 @@ Participate in the mathematical modeling competition, in which my task is to be 
 
 #### Skills   
 Programming: Python, Matlab, C, C++, Assembly Language   
-Design Tools: Proteus, Simulink    
+Design Tools: Proteus, Simulink  
+
 
 #### Awards   
-Several scholarships include The Prize Scholarship of 2018-2019 and 2019-2020.   
+Several scholarships include The Prize Scholarship of 2018-2019, 2019-2020 and 2020-2021.   
 Several volunteer certificates include Outstanding Volunteer and multiple group prizes include Outstanding Dormitory and Advanced Class.
 
 #### Languages   
