@@ -30,7 +30,7 @@ Design and Work Tools: Proteus, Simulink, LaTeX, Markdown
 
 #### Awards   
 Several scholarships include The Prize Scholarship of 2018-2019, 2019-2020 and 2020-2021.   
-Several volunteer certificates include Outstanding Volunteer and multiple group prizes include Outstanding Dormitory and Advanced Class.
+Several volunteer awards include Outstanding Volunteer and multiple group prizes include Outstanding Dormitory and Advanced Class.
 
 #### Languages   
 English:TOEFL iBT: Overall: 87(R:25, L:22, S:17, W:23)   
