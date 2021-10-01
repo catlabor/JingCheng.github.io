@@ -9,7 +9,7 @@
 #### Education Background   
 **Central South University,Changsha,Hunan Province,China**   
 2018 -09-01 to present | B.Eng. (Automation)   
-Average Scores till Present(on 100 scale): 88
+Average Scores till Present(on 100 scale): 88  
 Some of my main courses are listed below:   
 Advanced Mathematics: 100 in the first half and 97 in the second half   
 Probability Theory and Mathematical statistics: 95   
