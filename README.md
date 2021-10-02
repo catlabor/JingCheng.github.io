@@ -16,10 +16,10 @@ Probability Theory and Mathematical statistics: 95
 Digital Signal Processing: 88  
 
 #### Research and Project   
-Participant in several hardware design projects, some of them include the construction of automatic control fan based on single chip    
+Finish several hardware design projects, some of them include the construction of an automatic control fan based on a single chip    
 microcomputer, wireless radio, capacitance measuring instrument based on digital chip and the design of infrared tracking car.       
 Machine learning algorithm implementation, web crawler, and making some simple video games using programming tools such as python.
-Participate in several signal processing projects, some of them include the design of digital filter and the voice record.                  
+Complete several signal processing projects, some of them include the design of digital filter and the voice record.                  
 Participate in the mathematical modeling competition, in which my task is to be responsible for the construction of the model and assist code.
 
 
