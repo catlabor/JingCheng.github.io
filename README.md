@@ -13,7 +13,7 @@ Average Scores till Present(on 100 scale): 88(GPA：3.73/4)
 Some of my main courses are listed below:   
 Advanced Mathematics: 100 in the first half and 97 in the second half   
 Probability Theory and Mathematical statistics: 95   
-Analog Electronic Technology: 97  
+Analog Electronic Technology: 97    
 Digital Signal Processing: 88  
 
 #### Research and Project   
