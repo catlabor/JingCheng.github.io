@@ -30,7 +30,7 @@ Design and Work Tools: Proteus, Simulink, LaTeX, Markdown
 
 
 #### Awards   
-Several scholarships include The Prize Scholarship of 2018-2019, 2019-2020 and 2020-2021.   
+The scholarships include The Prize Scholarship of several years.   
 Several volunteer awards include Outstanding Volunteer and multiple group prizes include Outstanding Dormitory and Advanced Class.
 
 #### Languages   
